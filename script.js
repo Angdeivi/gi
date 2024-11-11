@@ -1,1 +1,1 @@
-console.log ("aprndiendo a usar esta mondad")
+console.log ("ahi vamos aprendiendo")
